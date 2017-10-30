@@ -29,6 +29,7 @@ double taylor(float n, float x)
 	return s;
 }
 
+//Comentario 1
 double factorial(float n) 
 {
 	double fac =1;
